@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about.html</loc>
+<loc>https://html.jiny.dev/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/company.html</loc>
+<loc>https://html.jiny.dev/company.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://html.jiny.dev/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/lay2.html</loc>
+<loc>https://html.jiny.dev/lay2.html</loc>
+</url>
+<url>
+<loc>https://html.jiny.dev/kakao/map.html</loc>
+<lastmod>2023-05-24T22:30:42+09:00</lastmod>
 </url>
 </urlset>
